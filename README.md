@@ -2,6 +2,8 @@
 
 Shows a fake "Listening to Spotify" status and a "Playing GTA V" status on your Discord profile at the same time.
 
+![Preview](screenshot.png)
+
 ---
 
 ## ✨ Features
